@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 
-
+#meta data information about my project
 setup(
     name='mlproject',
     version='0.0.1',
